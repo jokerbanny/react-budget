@@ -1,0 +1,8 @@
+- create project
+- cleanup
+- create app
+- import css to index
+- add income & Expenes
+- create history payin payout
+- add transactions
+- Add Transaction
